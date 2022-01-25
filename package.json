@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "# OBJETIVOS SPRINT #01",
+  "main": "app.js",
+  "scripts": {
+    "test": "run test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BotechiaErika/projecto01_MercadoLiebre.git"
+  },
+  "author": "BotechiaErika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BotechiaErika/projecto01_MercadoLiebre/issues"
+  },
+  "homepage": "https://github.com/BotechiaErika/projecto01_MercadoLiebre#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node": "^17.4.0",
+    "package.json": "^2.0.1"
+  }
+}
